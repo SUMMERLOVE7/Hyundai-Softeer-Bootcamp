@@ -13,3 +13,12 @@ and write command below in the mac terminal
 > npm -v   
 
 위의 command로 제대로 설치되었나 확인하기
+
+### Mac terminal에서 git commit 하는 command
+> ls   
+> cd hyundai-softeer-bootcamp   
+> git status   
+> git add .    
+> git status    
+> git commit -m '메세지 입력'    
+> git push origin main   
