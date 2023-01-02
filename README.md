@@ -14,7 +14,7 @@ and write command below in the mac terminal
 
 위의 command로 제대로 설치되었나 확인하기
 
-### Mac terminal에서 git commit 하는 command
+### 3. Mac terminal에서 git commit 하는 command
 > ls   
 > cd hyundai-softeer-bootcamp   
 > git status   
@@ -22,3 +22,5 @@ and write command below in the mac terminal
 > git status    
 > git commit -m '메세지 입력'    
 > git push origin main   
+> Username for 'https://github.com': SUMMERLOVE7   
+> Password for 'https://SUMMERLOVE7@github.com': 여기다가 personal access token 입력.   
