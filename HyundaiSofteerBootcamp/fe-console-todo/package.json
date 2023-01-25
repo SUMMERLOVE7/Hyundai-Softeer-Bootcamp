@@ -1,0 +1,19 @@
+{
+  "name": "fe-console-todo",
+  "version": "1.0.0",
+  "description": "Todo Mission",
+  "main": "Todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUMMERLOVE7/fe-console-todo.git"
+  },
+  "author": "sunjh96 SUMMERLOVE7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUMMERLOVE7/fe-console-todo/issues"
+  },
+  "homepage": "https://github.com/SUMMERLOVE7/fe-console-todo#readme"
+}
